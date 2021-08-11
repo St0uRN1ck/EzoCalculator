@@ -1,0 +1,11 @@
+C:\Users\Infobec\source\repos\EzoCalculator\bin\Debug\EzoCalculator.exe.config
+C:\Users\Infobec\source\repos\EzoCalculator\bin\Debug\EzoCalculator.exe
+C:\Users\Infobec\source\repos\EzoCalculator\bin\Debug\EzoCalculator.pdb
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.csproj.AssemblyReference.cache
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.EzoCalculatorResource.resources
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.FormEzoCalculator.resources
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.Properties.Resources.resources
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.csproj.GenerateResource.cache
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.exe
+C:\Users\Infobec\source\repos\EzoCalculator\obj\Debug\EzoCalculator.pdb
