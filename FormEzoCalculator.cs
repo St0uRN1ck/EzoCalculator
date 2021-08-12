@@ -54,7 +54,8 @@ namespace EzoCalculator
 
         private void button0_Click(object sender, EventArgs e)
         {
-            textBoxResult.Text += "0";
+            if (textBoxResult.Text != "0")
+                textBoxResult.Text += "0";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -161,9 +162,10 @@ namespace EzoCalculator
                     calcResult = (double)(m_dblFirstValue * secondValue);
                     break;
                 case OperationCalc.Divide:
-                    if (secondValue == 0.0)
+                    if (secondValue == 0)
                     {
-                        textBoxResult.Text = "ERROR: Cannot divide by zero";
+                        textBoxResult.Text = "ERROR";
+                        return;
                     }
                     else
                     {
